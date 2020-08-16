@@ -1,0 +1,1 @@
+# Adaptive layout on grid
